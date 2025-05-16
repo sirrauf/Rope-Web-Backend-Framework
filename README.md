@@ -1,4 +1,4 @@
-Rope web backend framework dan Auto Run CMD version 1.0
+Rope web backend framework version 1.0 - 2.0 dan Auto Run CMD version 1.0
 
 [Project Branch](https://github.com/sirrauf/Rope-Web-Backend-Framework/tree/project)
 
