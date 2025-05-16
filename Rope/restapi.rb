@@ -1,0 +1,1 @@
+puts "Please,fullfill syntax by yourself ^-^\n"
