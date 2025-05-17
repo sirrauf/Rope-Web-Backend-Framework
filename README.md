@@ -40,6 +40,7 @@ Fitur :
 
 - KonekDB,BuatDB,BuatTbDB (RopePy dan RobeRB)
 - Restapi(RopePy dan RobeRB)
+- Otomatis buat website menggunakan web framework Flask dan Ruby On Rails.
 
 Cara pakai :
 - Buka folder AutoRunningCMD di folder AutoRunningCMD, jika ingin langsung excute Rope backend web framework di Cmd / terminal.
